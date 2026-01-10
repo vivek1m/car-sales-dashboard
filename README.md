@@ -43,7 +43,7 @@ This Tableau dashboard provides a comprehensive analysis of car sales data betwe
   - Cars Sold
   - Avg Price
   - Total Sales
-  - % of Total Market Share
+  - % of Total Market Shares
 
 ## 🎛️ Filter Panel
 
